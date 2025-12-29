@@ -9,5 +9,7 @@ and retention strategies.
 Developed as part of an academic assignment, the project demonstrates
 analytical thinking, business context understanding, and data storytelling.
 
+**Tableau Public Link:** https://public.tableau.com/app/profile/kirk.rodrigues/viz/S4065891_Assignment2_KirkRodrigues/BankingSummary
+
 **Tools:** Tableau, Calculated Fields, Parameters 
 **Business Areas:** Retail banking, customer analytics, risk management
